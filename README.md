@@ -9,7 +9,7 @@ Interactive symptom checklist covering visual and physical symptoms (rash type, 
 Rule-based matching engine that maps symptom combinations to likely skin conditions
 Clean, accessible web interface for quick self-assessment
 Suggests when to seek professional medical consultation based on symptom severity
-API-driven architecture separating frontend interaction from condition-matching logic
+API-driven architecture separating frontend interaction from condition-matching logic 
 
 Tech Stack
 HTML · CSS · JavaScript · REST API

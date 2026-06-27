@@ -1,4 +1,4 @@
-# Skin-Diseases-Detection-Assistant-
+# DermaCare – Skin Disease Detection Assistant
 DermaCare – Skin Disease Detection Assistant
 A web-based symptom checker that helps users identify possible skin conditions based on their reported symptoms.
 Overview

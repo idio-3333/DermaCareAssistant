@@ -22,3 +22,4 @@ Results are returned with possible conditions and care recommendations
 
 Disclaimer
 This tool is intended for informational purposes only and does not replace professional medical diagnosis. Users showing severe or persistent symptoms are advised to consult a dermatologist.
+URL https://codepen.io/Sahana-1311/pen/wBgomLq
